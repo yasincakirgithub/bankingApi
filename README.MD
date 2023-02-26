@@ -25,7 +25,7 @@ typing-extensions==4.5.0
 $ docker-compose up --build
 ```
 
-Open your browser to http://localhost:8000
+Tarayıcınızdan http://localhost:8000 adresine giriniz 
 
 ### 2. Önemli Endpointler
 
